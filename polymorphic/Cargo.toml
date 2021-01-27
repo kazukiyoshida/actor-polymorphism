@@ -1,8 +1,0 @@
-[package]
-name = "non-polymorphic "
-version = "0.1.0"
-authors = ["Kazuki Yoshida <idkphys.030zzz@gmail.com>"]
-edition = "2018"
-
-[dependencies]
-actix = "0.10"

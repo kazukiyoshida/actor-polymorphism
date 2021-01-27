@@ -6,3 +6,11 @@ edition = "2018"
 
 [dependencies]
 actix = "0.10"
+
+[[bin]]
+name = "non-polymorphic"
+path = "src/non_polymorphic.rs"
+
+[[bin]]
+name = "polymorphic"
+path = "src/polymorphic.rs"
